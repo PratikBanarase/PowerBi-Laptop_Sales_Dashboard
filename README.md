@@ -111,5 +111,3 @@ The dashboard is built using the following columns:
 ![Uploading Screenshot 2026-01-09 133255.png…]()
 
 
-## ⭐ Feedback
-If you like this project, please ⭐ the repository and share your feedback!
