@@ -108,7 +108,8 @@ The dashboard is built using the following columns:
 📊 Aspiring Data Analyst | Power BI Developer  
 
 ## Dashboard Screenshot
-![Uploading Screenshot 2026-01-09 133255.png…]()
+<img width="1423" height="803" alt="Laptop Sales Dashboards" src="https://github.com/user-attachments/assets/6983df15-76c1-4a1b-92ee-a6572faef53c" />
+
 
 
 
